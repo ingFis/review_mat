@@ -3,5 +3,7 @@ Mat 02 Item 06 	Grandezas e Medidas
 Revisão
 	10/11/2020 - DIA
 	17/11/2020 - SEMANA 01
+	24/11/2020 - SEMANA 02
+	24/12/2020 - MÊS 01
 	
 
